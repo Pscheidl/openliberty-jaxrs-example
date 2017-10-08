@@ -1,0 +1,31 @@
+d*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+
+# Gradle folders
+build/
+.gradle/
+out/
+
+# Maven folders
+target/
+
+# IntelliJ Idea folder
+.idea/
+*.iml
+
+# NetBeans
+nb-configuration.xml
+nbproject/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# generated WSDL files
+src/generated
+/.nb-gradle/
